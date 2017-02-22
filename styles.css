@@ -1,0 +1,17 @@
+body { background-image: url("Boston.jpg") ;
+background-size: cover;
+background-attachment: fixed;
+color:white;
+font-size: 14pt; }
+body { font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  text-align: center; }
+ul { padding: 0; }
+li { display: inline-block; }
+a:link, a:visited { color: white;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  font-size: 16pt;
+}
+a:hover { color: #800080; }
+div { background: rgba(0, 0, 0, 0.5); }
